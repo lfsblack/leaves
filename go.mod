@@ -1,4 +1,4 @@
-module github.com/dmitryikh/leaves
+module github.com/lfsblack/leaves
 
 go 1.16
 
